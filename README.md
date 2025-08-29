@@ -1,9 +1,9 @@
 # ClassWork
 
 ## Table of Contents
-
+- [Description](#description)
 ---
-
+<a name="description"></a>
 ## Project description
 Describe the project that has been uploaded to this repository (brief description)
 

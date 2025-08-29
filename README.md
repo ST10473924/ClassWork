@@ -9,29 +9,11 @@ Describe the project that has been uploaded to this repository (brief descriptio
 
 ---
 
-##Features
-
-- Feature 1: brief description of feature
-- Feature 2
-- Feature 3: etc
-
----
-
-## Initialisation
-
-
-Explains how one would run your project if they download or cloned it.
-
 ** 1. Class the repository **
 ``` Bash
 git bash ## Table of Contents
+
 ```
----
-
-## Project description
-Describe the project that has been uploaded to this repository (brief description)
-
----
 
 ##Features
 
@@ -41,14 +23,14 @@ Describe the project that has been uploaded to this repository (brief descriptio
 
 ---
 
-## Initialisation
+## Installation
 
 
 Explains how one would run your project if they download or cloned it.
 
-** 1. Class the repository **
+** 1. Clone the repository **
 ``` Bash
-git bash 
+git clone https://github.com/ 
 ```
 ---
 
@@ -73,3 +55,5 @@ Credit Team members who you worked with and provide the link to their profile.
 ## Developer Information
 - **Name**: Ooga Booga
 - **email**: wubbalubbadubdub@youknowwho.com
+
+---
